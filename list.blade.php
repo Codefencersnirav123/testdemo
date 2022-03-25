@@ -38,6 +38,9 @@
 										<input type="radio" id="active" value="active" name="statusRadio" class="custom-control-input">
 										<label class="custom-control-label" for="active">Active</label>
 									</div>
+
+
+									
 									<div class="custom-radio custom-control">
 										<input type="radio" id="inactive" value="inactive" name="statusRadio" class="custom-control-input">
 										<label class="custom-control-label" for="inactive">Inactive</label>
@@ -49,7 +52,7 @@
 								</div>
 								NIRAV PATEL
 
-								
+
 							</div>
 						</div>
 					</div>
